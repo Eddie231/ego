@@ -1,8 +1,0 @@
-from,to,weight
-MK,CW,3
-MK,DP,3
-MK,MK,2
-MK,EL,2
-CW,DP,2
-CW,MK,2
-MK,EL,1
